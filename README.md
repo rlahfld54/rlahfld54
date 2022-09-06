@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ## _FE
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Vue&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Vue-3766AB?style=flat-square&logo=Vue&logoColor=white"/></a>
