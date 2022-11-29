@@ -1,4 +1,5 @@
 ### Hi there 👋
+회사 관련 코드는 보안상 보여드릴 수 없습니다 :-)
 
 <!--
 **rlahfld54/rlahfld54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
