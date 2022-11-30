@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Frontend developer using Vue.js and Electron.🚀
-
+<img src="https://img.shields.io/badge/Blog-EF2D5E?style=for-the-badge&logo=heart&logoColor=white">
 회사 관련 프로젝트는 보안상 보여드릴 수 없습니다 :-)
 
 <!--
