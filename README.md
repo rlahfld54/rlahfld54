@@ -1,4 +1,8 @@
 ### Hi there 👋 I'm Frontend developer using Vue.js and Electron.🚀
+## _FE 기술 스택⚡
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
+## 기술블로그⚡
 <div>
   <a href="https://normal-gom-jelly.tistory.com" target="_blank">
     <img src="https://img.shields.io/badge/Blog-EF2D5E?style=for-the-badge&logo=love&logoColor=white">
@@ -23,7 +27,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-## _FE 기술 스택⚡
-<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
