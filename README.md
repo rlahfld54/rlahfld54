@@ -7,7 +7,7 @@
 <br/>
 💬 회사 관련 프로젝트 코드는 보안상 보여드릴 수 없습니다 :-)
 <img src="https://user-images.githubusercontent.com/83711644/212611130-b12da4a1-31f8-47aa-b171-9c2501bb472b.PNG">
-![깃허브 프라이빗 내용](https://user-images.githubusercontent.com/83711644/212611130-b12da4a1-31f8-47aa-b171-9c2501bb472b.PNG)
+<!-- ![깃허브 프라이빗 내용](https://user-images.githubusercontent.com/83711644/212611130-b12da4a1-31f8-47aa-b171-9c2501bb472b.PNG) -->
 
 <!--
 **rlahfld54/rlahfld54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
