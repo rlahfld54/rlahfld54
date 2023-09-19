@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=🚀Full_Stack_dev🚀&fontSize=90)
 
 ## 사용자에게 안정감과 좋은 성능을 주고 싶은 풀스택 개발자🚀
+💬 회사 관련 프로젝트 코드는 보안상 보여드릴 수 없습니다 :-)
 
 ## _BE 기술 스택⚡
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
@@ -18,9 +19,6 @@
   </a>
 </div>
 <br/>
-💬 회사 관련 프로젝트 코드는 보안상 보여드릴 수 없습니다 :-)
-<img src="https://user-images.githubusercontent.com/83711644/212611130-b12da4a1-31f8-47aa-b171-9c2501bb472b.PNG">
-<!-- ![깃허브 프라이빗 내용](https://user-images.githubusercontent.com/83711644/212611130-b12da4a1-31f8-47aa-b171-9c2501bb472b.PNG) -->
 
 <!--
 **rlahfld54/rlahfld54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
