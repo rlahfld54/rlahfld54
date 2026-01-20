@@ -8,6 +8,15 @@
 
 💬 저는 억지로 하기보단 좋아하고 잘할 수 있는 일을 하면서, 노인처럼 자신의 작업에 꾸준히 정성을 다하는 사람이 되고 싶습니다.
 
+## 인덱스 안타는 경우
+![왜 인덱스를 타질 못하니](https://github.com/user-attachments/assets/7807ee93-ddc9-440b-a3fc-d03407de704e)
+
+## 원인 다 찾았는데 로그를 왜 봐야하죠?
+![196c9ccd25458410f](https://github.com/user-attachments/assets/8d6b8a48-2be7-4e0e-8863-2240d2015ccb)
+### 칼퇴해야져~!~!~
+
+우리의 시간은 소중하니까요 ㅎㅎ 빨리 퇴근해야져~!~!~!
+
 
 ## _BE 기술 스택⚡
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
