@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=🚀Full_Stack_dev🚀&fontSize=90)
-
 ## 사용자에게 안정감과 좋은 성능을 주고 싶은 풀스택 개발자🚀
 좋아하는 책 : 방망이 깎던 노인 <br />
 좋아하는 말 : 숙제하듯 살지 말고 축제하듯 살자
