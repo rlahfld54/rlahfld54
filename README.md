@@ -15,7 +15,9 @@
   <img src="https://img.shields.io/badge/SQLite-ready-003B57?style=for-the-badge&logo=sqlite&logoColor=ffffff" alt="SQLite" />
 </p>
 
-![Excel Automation Workspace preview](docs/images/excel-automation-workspace.png)
+<img width="1904" height="914" alt="기본 초안" src="https://github.com/user-attachments/assets/957035f1-c853-434a-b1b4-55a60bf4f330" />
+
+
 
 ## Contact
 
