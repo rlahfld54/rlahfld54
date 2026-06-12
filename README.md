@@ -6,6 +6,10 @@
 
 이 프로젝트는 단순한 관리자 대시보드가 아니라, 사무 사용자가 매일 반복하는 Excel 정리, 코드 매핑, 중복 검사, 백업, 보고서 생성 작업을 하나의 워크스페이스 안에서 자연스럽게 처리하도록 설계한 React + Electron 기반 앱입니다.
 
+
+# 다운 받아보기 (악성코드 없음)
+https://github.com/rlahfld54/excel-desktop-app/releases/tag/v1.0.0
+
 <p>
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=111111" alt="React" />
   <img src="https://img.shields.io/badge/Vite-6-646CFF?style=for-the-badge&logo=vite&logoColor=ffffff" alt="Vite" />
