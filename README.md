@@ -14,7 +14,7 @@
 
 Windows 설치 파일은 아래 GitHub Releases에서 받을 수 있습니다.
 
-[Excel Automation Workspace 다운로드](https://github.com/rlahfld54/excel-desktop-app/releases/tag)
+[Excel Automation Workspace 다운로드](https://github.com/rlahfld54/excel-desktop-app/releases/tag/v1.0.1)
 
 ## 기술 스택
 
