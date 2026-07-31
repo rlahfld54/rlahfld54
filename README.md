@@ -9,7 +9,7 @@
 
 <br>
 
-**React · Electron · Excel Automation · SQLite**
+**React / Vue · Electron · AWS · PostgreSQL**
 
 <br>
 
@@ -45,4 +45,9 @@
 
 **[Excel Automation Workspace](https://github.com/rlahfld54/excel-desktop-app)**  
 Excel 데이터 검증부터 보고서 생성과 발송까지 연결한 React + Electron 기반 데스크톱 업무 자동화 앱입니다.
-exe 파일을 다운하실 수 있습니다.
+
+<br>
+
+<a href="https://github.com/rlahfld54/excel-desktop-app/releases/tag/v1.0.0">
+  <img src="https://img.shields.io/badge/Windows-설치%20파일%20다운로드-0078D4?style=for-the-badge&logo=windows&logoColor=ffffff" alt="Windows 설치 파일 다운로드" />
+</a>
