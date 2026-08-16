@@ -29,6 +29,9 @@
 
 <br>
 
+# 포트폴리오 한눈에 보기
+https://rlahfld54.github.io/excel-desktop-app/showcase/
+
 ## 🚀 Featured Project
 
 ### [Excel Automation Workspace](https://github.com/rlahfld54/excel-desktop-app)
