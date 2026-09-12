@@ -5,31 +5,27 @@
 ### 사용자의 실제 업무 흐름을 이해하고,  
 ### 반복되는 과정과 불편을 **안정적이고 사용하기 쉬운 제품**으로 해결하고자 합니다.
 
-<br>
+1년 11개월 차 개발자이며, Vue와 Electron을 활용한 서비스 구축, eGovFrame 기반 시스템 개발 및 유지보수 경험을 통해 소프트웨어 생애주기 전반에 대한 이해도를 갖췄습니다.
+표면적인 에러 해결에 그치지 않고 사용자가 실제로 겪는 업무 병목을 파악해 데이터 구조와 기능으로 풀어내는 데 강점이 있습니다. 
+최근에는 React·Electron·AWS를 활용하여 기존에 파편화되어 있던 매출 마감 프로세스를 통합하는 'Offline-First 기반 자동화 데스크톱 앱'을 직접 설계 및 개발했습니다.
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<br>
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=9FEAF9" alt="Electron" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
 
 <br>
 <br>
-
-<a href="https://github.com/rlahfld54">
-  <img src="https://img.shields.io/badge/GitHub-프로젝트 보기-181717?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub 프로젝트 보기" />
-</a>
-<a href="https://normal-gom-jelly.tistory.com">
-  <img src="https://img.shields.io/badge/Blog-개발 기록-FF5A4A?style=for-the-badge&logo=tistory&logoColor=ffffff" alt="개발 블로그" />
-</a>
-
 </div>
 
 <br>
 
 # 포트폴리오 한눈에 보기
 https://rlahfld54.github.io/excel-desktop-app/showcase/
-
+<br>
+<br>
 ## 🚀 Featured Project
 
 ### [Excel Automation Workspace](https://github.com/rlahfld54/excel-desktop-app)
@@ -57,7 +53,7 @@ Excel 데이터 검증부터 보고서 생성과 발송까지 하나의 흐름�
 
 | Category | Technologies |
 |---|---|
-| Frontend | React, Vue.js |
+| Frontend |  Vue.js, React |
 | Desktop | Electron |
 | Database | PostgreSQL |
 | Infrastructure | AWS |
