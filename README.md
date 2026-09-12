@@ -9,15 +9,18 @@
 표면적인 에러 해결에 그치지 않고 사용자가 실제로 겪는 업무 병목을 파악해 데이터 구조와 기능으로 풀어내는 데 강점이 있습니다. 
 최근에는 React·Electron·AWS를 활용하여 기존에 파편화되어 있던 매출 마감 프로세스를 통합하는 'Offline-First 기반 자동화 데스크톱 앱'을 직접 설계 및 개발했습니다.
 
+# 포트폴리오 한눈에 보기
+https://rlahfld54.github.io/excel-desktop-app/showcase/
+
 ### 🎬 사용 화면
 
-![Excel Automation Workspace 시연](assets/screen-tour.gif)
+![Excel Automation Workspace 시연](screen-tour.gif)
 
 ### 🖼 화면 미리보기
 
-| 데이터 검증 | 보고서 생성 | 발송 화면 |
-|:---:|:---:|:---:|
-| ![데이터 검증 화면](assets/dashboard.png) | ![보고서 생성 화면](assets/screen-2.png) | ![발송 화면](assets/screen-3.png) |
+| 대시보드 | 데이터 검증 | 마감 |  백업 | AWS |
+|:---:|:---:|:---:|:---:|:---:|
+| ![대시보드 화면](dashboard.PNG) | ![데이터 검증 화면](upload-validation.PNG) | ![마감 화면](closing-workspace.PNG) | ![백업 화면](storage-backup.PNG) |![AWS 화면](aws-files.PNG) |
 <br>
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -30,11 +33,8 @@
 </div>
 
 <br>
+<br>
 
-# 포트폴리오 한눈에 보기
-https://rlahfld54.github.io/excel-desktop-app/showcase/
-<br>
-<br>
 ## 🚀 Featured Project
 
 ### [Excel Automation Workspace](https://github.com/rlahfld54/excel-desktop-app)
