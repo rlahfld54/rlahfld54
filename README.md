@@ -9,12 +9,17 @@
 표면적인 에러 해결에 그치지 않고 사용자가 실제로 겪는 업무 병목을 파악해 데이터 구조와 기능으로 풀어내는 데 강점이 있습니다. 
 최근에는 React·Electron·AWS를 활용하여 기존에 파편화되어 있던 매출 마감 프로세스를 통합하는 'Offline-First 기반 자동화 데스크톱 앱'을 직접 설계 및 개발했습니다.
 
-# 포트폴리오 한눈에 보기
-https://rlahfld54.github.io/excel-desktop-app/showcase/
+# 위시켓 포트폴리오 한눈에 보기
+https://www.wishket.com/partners/p/rlahfld54/portfolio/317925/
+<br>
+
+
 
 ### 🎬 사용 화면
 
 ![Excel Automation Workspace 시연](screen-tour.gif)
+
+https://rlahfld54.github.io/excel-desktop-app/showcase/
 
 ### 🖼 화면 미리보기
 
