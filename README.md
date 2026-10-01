@@ -21,24 +21,6 @@ https://www.wishket.com/partners/p/rlahfld54/portfolio/317925/
 
 https://rlahfld54.github.io/excel-desktop-app/showcase/
 
-### 🖼 화면 미리보기
-
-| 대시보드 | 데이터 검증 | 마감 |  백업 | AWS |
-|:---:|:---:|:---:|:---:|:---:|
-| ![대시보드 화면](dashboard.PNG) | ![데이터 검증 화면](upload-validation.PNG) | ![마감 화면](closing-workspace.PNG) | ![백업 화면](storage-backup.PNG) |![AWS 화면](aws-files.PNG) |
-<br>
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=9FEAF9" alt="Electron" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
-
-<br>
-<br>
-</div>
-
-<br>
-<br>
 
 ## 🚀 Featured Project
 
@@ -53,28 +35,18 @@ Excel 데이터 검증부터 보고서 생성과 발송까지 하나의 흐름�
 
 <br>
 
-<a href="https://github.com/rlahfld54/excel-desktop-app">
-  <img src="https://img.shields.io/badge/GitHub-소스 코드 보기-181717?style=for-the-badge&logo=github&logoColor=ffffff" alt="소스 코드 보기" />
-</a>
-<a href="https://github.com/rlahfld54/excel-desktop-app/releases/tag/v1.0.0">
-  <img src="https://img.shields.io/badge/Windows-설치 파일 다운로드-0078D4?style=for-the-badge&logo=windows&logoColor=ffffff" alt="Windows 설치 파일 다운로드" />
-</a>
+### 🖼 화면 미리보기
+
+| 대시보드 | 데이터 검증 | 마감 |  백업 | AWS |
+|:---:|:---:|:---:|:---:|:---:|
+| ![대시보드 화면](dashboard.PNG) | ![데이터 검증 화면](upload-validation.PNG) | ![마감 화면](closing-workspace.PNG) | ![백업 화면](storage-backup.PNG) |![AWS 화면](aws-files.PNG) |
 
 <br>
 <br>
+</div>
 
-## 🛠 Tech Stack
 
-| Category | Technologies |
-|---|---|
-| Frontend |  Vue.js, React |
-| Desktop | Electron |
-| Database | PostgreSQL |
-| Infrastructure | AWS |
-
-<br>
-
-## 💬 Contact
+### 💬 Contact
 
 채용 및 프로젝트에 관한 이야기를 기다리고 있습니다.  
 가장 빠른 연락은 **카카오톡 오픈채팅**을 이용해 주세요.
@@ -89,14 +61,3 @@ Excel 데이터 검증부터 보고서 생성과 발송까지 하나의 흐름�
   />
 </a>
 
-<br>
-<br>
-
-<a href="https://open.kakao.com/o/sN54PCGi">
-  <img src="https://img.shields.io/badge/KakaoTalk-오픈채팅으로 연락하기-FEE500?style=for-the-badge&logo=kakaotalk&logoColor=000000" alt="카카오톡 오픈채팅" />
-</a>
-<a href="mailto:rlahfld54@naver.com">
-  <img src="https://img.shields.io/badge/Email-rlahfld54%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=ffffff" alt="이메일 보내기" />
-</a>
-
-</div>
